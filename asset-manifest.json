@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ContadorReact/static/css/main.3ab444f2.chunk.css",
+    "main.js": "/ContadorReact/static/js/main.e9497cfa.chunk.js",
+    "main.js.map": "/ContadorReact/static/js/main.e9497cfa.chunk.js.map",
+    "runtime-main.js": "/ContadorReact/static/js/runtime-main.f4b8417d.js",
+    "runtime-main.js.map": "/ContadorReact/static/js/runtime-main.f4b8417d.js.map",
+    "static/js/2.8e6a74dd.chunk.js": "/ContadorReact/static/js/2.8e6a74dd.chunk.js",
+    "static/js/2.8e6a74dd.chunk.js.map": "/ContadorReact/static/js/2.8e6a74dd.chunk.js.map",
+    "static/js/3.a395479c.chunk.js": "/ContadorReact/static/js/3.a395479c.chunk.js",
+    "static/js/3.a395479c.chunk.js.map": "/ContadorReact/static/js/3.a395479c.chunk.js.map",
+    "index.html": "/ContadorReact/index.html",
+    "static/css/main.3ab444f2.chunk.css.map": "/ContadorReact/static/css/main.3ab444f2.chunk.css.map",
+    "static/js/2.8e6a74dd.chunk.js.LICENSE.txt": "/ContadorReact/static/js/2.8e6a74dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b8417d.js",
+    "static/js/2.8e6a74dd.chunk.js",
+    "static/css/main.3ab444f2.chunk.css",
+    "static/js/main.e9497cfa.chunk.js"
+  ]
+}
